@@ -20,4 +20,3 @@ I'm Larissa Dias, Enthusiast of the web development technologies 🚀
 
 ### How to reach me:
 
-[![Linkedin Badge](https://www.linkedin.com/in/larissa-carvalho-2b384b180) 
