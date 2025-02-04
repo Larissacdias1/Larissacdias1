@@ -20,4 +20,4 @@ I'm Larissa Dias, Enthusiast of the web development technologies 🚀
 
 ### How to reach me:
 
-[![Linkedin Badge](https://img.shields.io/badge/-Larissa%20Dias-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https:/https://www.linkedin.com/in/larissa-dias-2b384b180/)](https://www.linkedin.com/in/larissa-dias-2b384b180/) 
+[![Linkedin Badge](https://www.linkedin.com/in/larissa-carvalho-2b384b180) 
